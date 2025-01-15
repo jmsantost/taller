@@ -1,0 +1,39 @@
+[0.572s] Invoking command in '/home/jm/taller_multi_turtles/src/multi_turtles': PYTHONPATH=/home/jm/taller_multi_turtles/build/multi_turtles/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multi_turtles build --build-base /home/jm/taller_multi_turtles/build/multi_turtles/build install --record /home/jm/taller_multi_turtles/build/multi_turtles/install.log --single-version-externally-managed install_data
+[0.787s] running egg_info
+[0.787s] creating ../../build/multi_turtles/multi_turtles.egg-info
+[0.787s] writing ../../build/multi_turtles/multi_turtles.egg-info/PKG-INFO
+[0.787s] writing dependency_links to ../../build/multi_turtles/multi_turtles.egg-info/dependency_links.txt
+[0.788s] writing entry points to ../../build/multi_turtles/multi_turtles.egg-info/entry_points.txt
+[0.788s] writing requirements to ../../build/multi_turtles/multi_turtles.egg-info/requires.txt
+[0.788s] writing top-level names to ../../build/multi_turtles/multi_turtles.egg-info/top_level.txt
+[0.788s] writing manifest file '../../build/multi_turtles/multi_turtles.egg-info/SOURCES.txt'
+[0.789s] reading manifest file '../../build/multi_turtles/multi_turtles.egg-info/SOURCES.txt'
+[0.790s] writing manifest file '../../build/multi_turtles/multi_turtles.egg-info/SOURCES.txt'
+[0.790s] running build
+[0.790s] running build_py
+[0.790s] creating /home/jm/taller_multi_turtles/build/multi_turtles/build
+[0.790s] creating /home/jm/taller_multi_turtles/build/multi_turtles/build/lib
+[0.790s] creating /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles
+[0.790s] copying multi_turtles/turtle_movements.py -> /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles
+[0.790s] copying multi_turtles/__init__.py -> /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles
+[0.790s] running install
+[0.790s] running install_lib
+[0.791s] creating /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles
+[0.791s] copying /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles/turtle_movements.py -> /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles
+[0.791s] copying /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles/__init__.py -> /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles
+[0.791s] byte-compiling /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles/turtle_movements.py to turtle_movements.cpython-310.pyc
+[0.792s] byte-compiling /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles/__init__.py to __init__.cpython-310.pyc
+[0.792s] running install_data
+[0.792s] creating /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index
+[0.792s] creating /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index/resource_index
+[0.792s] creating /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index/resource_index/packages
+[0.792s] copying resource/multi_turtles -> /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index/resource_index/packages
+[0.792s] copying package.xml -> /home/jm/taller_multi_turtles/install/multi_turtles/share/multi_turtles
+[0.792s] creating /home/jm/taller_multi_turtles/install/multi_turtles/share/multi_turtles/launch
+[0.792s] copying launch/3turtles.launch.py -> /home/jm/taller_multi_turtles/install/multi_turtles/share/multi_turtles/launch
+[0.792s] running install_egg_info
+[0.794s] Copying ../../build/multi_turtles/multi_turtles.egg-info to /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles-0.0.0-py3.10.egg-info
+[0.794s] running install_scripts
+[0.809s] Installing turtle_movements script to /home/jm/taller_multi_turtles/install/multi_turtles/lib/multi_turtles
+[0.809s] writing list of installed files to '/home/jm/taller_multi_turtles/build/multi_turtles/install.log'
+[0.826s] Invoked command in '/home/jm/taller_multi_turtles/src/multi_turtles' returned '0': PYTHONPATH=/home/jm/taller_multi_turtles/build/multi_turtles/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multi_turtles build --build-base /home/jm/taller_multi_turtles/build/multi_turtles/build install --record /home/jm/taller_multi_turtles/build/multi_turtles/install.log --single-version-externally-managed install_data

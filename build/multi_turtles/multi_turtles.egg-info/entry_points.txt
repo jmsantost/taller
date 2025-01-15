@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_movements = multi_turtles.turtle_movements:main
+

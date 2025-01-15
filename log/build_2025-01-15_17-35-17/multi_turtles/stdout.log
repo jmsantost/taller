@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/multi_turtles/multi_turtles.egg-info
+writing ../../build/multi_turtles/multi_turtles.egg-info/PKG-INFO
+writing dependency_links to ../../build/multi_turtles/multi_turtles.egg-info/dependency_links.txt
+writing entry points to ../../build/multi_turtles/multi_turtles.egg-info/entry_points.txt
+writing requirements to ../../build/multi_turtles/multi_turtles.egg-info/requires.txt
+writing top-level names to ../../build/multi_turtles/multi_turtles.egg-info/top_level.txt
+writing manifest file '../../build/multi_turtles/multi_turtles.egg-info/SOURCES.txt'
+reading manifest file '../../build/multi_turtles/multi_turtles.egg-info/SOURCES.txt'
+writing manifest file '../../build/multi_turtles/multi_turtles.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jm/taller_multi_turtles/build/multi_turtles/build
+creating /home/jm/taller_multi_turtles/build/multi_turtles/build/lib
+creating /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles
+copying multi_turtles/turtle_movements.py -> /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles
+copying multi_turtles/__init__.py -> /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles
+running install
+running install_lib
+creating /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles
+copying /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles/turtle_movements.py -> /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles
+copying /home/jm/taller_multi_turtles/build/multi_turtles/build/lib/multi_turtles/__init__.py -> /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles
+byte-compiling /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles/turtle_movements.py to turtle_movements.cpython-310.pyc
+byte-compiling /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index
+creating /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index/resource_index
+creating /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index/resource_index/packages
+copying resource/multi_turtles -> /home/jm/taller_multi_turtles/install/multi_turtles/share/ament_index/resource_index/packages
+copying package.xml -> /home/jm/taller_multi_turtles/install/multi_turtles/share/multi_turtles
+creating /home/jm/taller_multi_turtles/install/multi_turtles/share/multi_turtles/launch
+copying launch/3turtles.launch.py -> /home/jm/taller_multi_turtles/install/multi_turtles/share/multi_turtles/launch
+running install_egg_info
+Copying ../../build/multi_turtles/multi_turtles.egg-info to /home/jm/taller_multi_turtles/install/multi_turtles/lib/python3.10/site-packages/multi_turtles-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_movements script to /home/jm/taller_multi_turtles/install/multi_turtles/lib/multi_turtles
+writing list of installed files to '/home/jm/taller_multi_turtles/build/multi_turtles/install.log'
