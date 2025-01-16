@@ -27,7 +27,7 @@ cd ~/taller_multi_turtles/src/multi_turtles
 mkdir launch
 ```
 
-Crear el archivo `launch/three_turtles.launch.py`:
+Crear el archivo `launch/3turtles.launch.py`:
 ```python
 from launch import LaunchDescription
 from launch_ros.actions import Node
