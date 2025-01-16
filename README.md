@@ -204,7 +204,7 @@ source install/setup.bash
 
 En una terminal:
 ```bash
-ros2 launch multi_turtles three_turtles.launch.py
+ros2 launch multi_turtles 3turtles.launch.py
 ```
 
 En otra terminal:
