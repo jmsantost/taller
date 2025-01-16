@@ -189,7 +189,7 @@ setup(
 ## 5. Hacer el Nodo Ejecutable
 
 ```bash
-chmod +x ~/taller_multi_turtles/src/multi_turtles/multi_turtles/turtle_movements.py
+chmod +x ~/taller/src/multi_turtles/multi_turtles/turtle_movements.py
 ```
 
 ## 6. Construir el Paquete
